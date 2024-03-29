@@ -10,6 +10,18 @@ Notre équipe, composée de 6 personnes, a travaillé sur le sujet suivant :
 
 Vous pouvez accéder à l'ensemble de notre projet via ce [lien vers Google Drive](https://drive.google.com/drive/folders/1r1FWLnqc4Li0fdu8Sc188sTF7QXemNOn?usp=drive_link). Le contenu est accessible en libre accès à toute personne intéressée. Le système d'exploitation supporté est Windows 10 minimum.
 
+##Installation et Exécution
+
+Pour accéder à notre projet et utiliser l'application interactive, veuillez suivre les étapes ci-dessous :
+
+    Téléchargement du Projet : Tout d'abord, téléchargez l'ensemble du projet en cliquant sur le lien suivant : Lien vers Google Drive.
+
+    Extraction des Fichiers : Une fois le téléchargement terminé, extrayez les fichiers de l'archive téléchargée dans un répertoire de votre choix sur votre ordinateur.
+
+    Exécution du Fichier : À l'intérieur du répertoire extrait, vous trouverez un fichier nommé CNRD Carte interactive.exe. Double-cliquez sur ce fichier pour lancer l'application interactive.
+
+    Utilisation Responsable : Nous vous rappelons de respecter les droits d'auteur et d'utiliser ce contenu de manière éthique et responsable.
+
 ## Responsabilité Juridique
 
 Il est important de noter que ce projet est mis à disposition tel quel, sans aucune garantie. Nous déclinons toute responsabilité juridique concernant l'utilisation de ce contenu.
